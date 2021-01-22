@@ -1,0 +1,30 @@
+_repo: The-Great-Gatsby_64317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fitzgerald, F. Scott (Francis Scott)
+    alias: Fitzgerald, Francis Scott Key
+    birthdate: 1896
+    deathdate: 1940
+    gutenberg_agent_id: '420'
+    url: http://www.gutenberg.org/2009/agents/420
+    wikipedia: https://en.wikipedia.org/wiki/F._Scott_Fitzgerald
+description: ''
+gutenberg_issued: '2021-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'First loves -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Long Island (N.Y.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Great Gatsby
+url: http://www.gutenberg.org/ebooks/64317
